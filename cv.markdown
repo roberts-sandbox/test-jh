@@ -7,7 +7,7 @@ title: CV
 
 Department of Physics  
 University of Maryland, CP  
-contact@jhwilson.com
+<a href="mailto:contact@jhwilson.com">roberts-sandbox/test-jh</a>
 
 ## Education
 Ph.D. Physics, University of Maryland, 2007 -- Present  
